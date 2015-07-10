@@ -6,4 +6,5 @@
 "../boundary" "services/boundary"
 "../clients" "clients"
 "../database-kebbi" "../database-kebbi"
+"../database-katsina" "../database-katsina"
 "../test" "test"
