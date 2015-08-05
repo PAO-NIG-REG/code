@@ -7,4 +7,5 @@
 "../clients" "clients"
 "../database-kebbi" "../database-kebbi"
 "../database-katsina" "../database-katsina"
+"../database-kogi" "../database-kogi"
 "../test" "test"
