@@ -4,7 +4,7 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>org.sola</groupId>
     <artifactId>sola-main</artifactId>
-    <version>1510devE</version>
+    <version>1510devH</version>
     <packaging>pom</packaging>
     <name>Main POM</name>
     <properties>
